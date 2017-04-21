@@ -1,0 +1,12 @@
+[Library]
+name = Newbery
+global_name = edu.upenn.library.digital.women._collections.newbery
+long_name = Newbery Medal Winners by Women Authors
+library_version = 2
+host_version = 1
+l10n = false
+locale = en
+category = books
+subcategory = children's books
+activity = Browse
+activity_start = index.html
